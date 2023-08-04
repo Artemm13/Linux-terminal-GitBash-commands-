@@ -1,15 +1,14 @@
+1) Посмотреть где я: pwd
 
-1) Посмотреть где я – pwd
+2) Создать папку: mkdir foldername
 
-2) Создать папку – mkdir foldername
+3) Зайти в папку: cd foldername
 
-3) Зайти в папку – cd foldername
+4) Создать 3 папки: mkdir name1 name2 name3 //папки создаются на одном уровне
 
-4) Создать 3 папки – mkdir name1 name2 name3 //папки создаются на одном уровне
+5) Зайти в любую папку: cd name3
 
-5) Зайти в любую папку – cd name3
-
-6) Создать 5 файлов (3 txt, 2 json) – touch file1.txt file2.txt file3.txt file4.json file5.json;
+6) Создать 5 файлов (3 txt, 2 json): touch file1.txt file2.txt file3.txt file4.json file5.json;
 
 7) Создать 3 папки - mkdir -p name4/name5/name6; //папки создаются одна в одной
 
